@@ -1,0 +1,61 @@
+{
+  "locations": [
+    {
+      "name": "Bandar Abbas",
+      "lat": 27.1832,
+      "lon": 56.2668,
+      "type": "Major Port & Naval Hub",
+      "description": "Primary Iranian port city on the Strait of Hormuz. Key commercial and military hub.",
+      "infrastructure": [
+        "Shahid Rajaee Port (major container terminal)",
+        "Bandar Abbas Naval Base (headquarters of Iranian Navy's Southern Fleet)",
+        "Bandar Abbas International Airport / 9th Tactical Air Base (military aviation elements)"
+      ],
+      "notes": "Critical for oil exports and naval operations. Frequently mentioned in strategic reports on Hormuz chokepoint."
+    },
+    {
+      "name": "Bushehr",
+      "lat": 28.9689,
+      "lon": 50.8365,
+      "type": "Port City",
+      "description": "Port city on the Persian Gulf coast, north of the Strait.",
+      "infrastructure": [
+        "Bushehr Port (commercial and some military use)",
+        "Bushehr Air Base (Iranian Air Force base)",
+        "Bushehr Nuclear Power Plant (adjacent strategic site)"
+      ],
+      "notes": "Important for regional power generation and naval/air support. Reports often highlight dual-use infrastructure."
+    },
+    {
+      "name": "Bandar Kangan",
+      "lat": 27.8370,
+      "lon": 52.0640,
+      "type": "Industrial Port",
+      "description": "Port in Bushehr Province, near major gas fields.",
+      "infrastructure": [
+        "Kangan Port (industrial and petrochemical terminal)",
+        "Associated facilities for South Pars Gas Field"
+      ],
+      "notes": "Primarily commercial/industrial; less military focus than Bandar Abbas but part of broader Persian Gulf port network."
+    },
+    {
+      "name": "Strait of Hormuz Chokepoint",
+      "lat": 26.5667,
+      "lon": 56.2500,
+      "type": "Maritime Chokepoint",
+      "description": "Narrowest section of the Strait of Hormuz (~21 nautical miles wide).",
+      "infrastructure": [
+        "Major international shipping lanes",
+        "Nearby: Qeshm Island (Iranian military presence reported in some analyses)",
+        "Hormuz and Larak islands (occasional military activity noted)"
+      ],
+      "notes": "Global oil transit chokepoint. Coordinates represent approximate center of narrowest passage between Iran and Oman. Key feature for any basemap of the region."
+    }
+  ],
+  "metadata": {
+    "source": "Compiled from open geospatial knowledge and strategic location reports (2026)",
+    "purpose": "Data preparation for contextily + OSM basemap visualization",
+    "coordinate_system": "WGS84 (EPSG:4326)",
+    "last_updated": "2026-05-28"
+  }
+}
